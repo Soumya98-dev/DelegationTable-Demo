@@ -1,0 +1,17 @@
+#my-table {
+  /* background-color: grey; */
+  width: 50%;
+  height: 250px;
+}
+
+td {
+  border: 2px solid black;
+  text-align: center;
+  background-color: gray;
+  cursor: pointer;
+  padding: 60px;
+}
+
+.highlight {
+  background-color: red;
+}
